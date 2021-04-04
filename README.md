@@ -1,2 +1,2 @@
 # student-alcohol-consumption-analysis
-Exploratory Data Analysis terhadap survei konsumsi alkohol pada siswa yang mengambil kursus matematika pada sekolah menengah di Portugal.
+Exploratory Data Analysis data survei terhadapa siswa yang mengambil kursus matematika pada sekolah menengah. Data survei ini berisi banyak informasi sosial, gender dan studi yang menarik tentang siswa.
